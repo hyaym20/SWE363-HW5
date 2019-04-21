@@ -29,7 +29,7 @@ $currentTime = time();
 <html>
 <head>
 <title>Weather</title>
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="Style.css">
             <meta charset="UTF-8">
              <meta name="description" content="Homwork5">
              <meta name="author" content="Hassan Yahya">
